@@ -1,0 +1,16 @@
+.DS_Store
+.dart_tool/
+.packages
+.pub/
+build/
+android/
+ios/
+web/
+.gradle/
+.idea/
+*.iml
+node_modules/
+pubspec.lock
+.env
+*.hprof
+*.zip
